@@ -1,3 +1,6 @@
+[![Travis Build
+Status](https://img.shields.io/travis/indatawetrust/kova.svg)](https://travis-ci.org/indatawetrust/kova)
+
 # kova
 change the specified key values
 
