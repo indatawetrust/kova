@@ -4,7 +4,11 @@ Status](https://img.shields.io/travis/indatawetrust/kova.svg)](https://travis-ci
 # kova
 change the specified key values
 
+#### usage
+
 ```js
+import kova from 'kova'
+
 const object = {
   a: {
     b: {
